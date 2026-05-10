@@ -1,5 +1,7 @@
 # shadownet-conformance
 
+> This repo has moved to [`shadownet-protocol/shadownet`](https://github.com/shadownet-protocol/shadownet) at [`conformance/`](https://github.com/shadownet-protocol/shadownet/tree/main/conformance). New issues and PRs go there.
+
 Wire-level interop test suite for the [Shadownet](../shadownet-specs/) protocol.
 
 ## Status
